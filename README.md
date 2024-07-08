@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumaiya khan</h1>
-<h3 align="center">Undergraduate Student in Computer Science Engineering</h3>
+<h3 align="center">Undergraduate Student in Computer Science and Engineering</h3>
 
 - 🌱 I’m currently learning **Generative AI,Machine Learning,Web Development**
 
